@@ -1,3 +1,5 @@
 !#/bin/bash
-eco "Hello emacs"
+echo "Hello emacs"
+echo "Again Hello"	
+
 exit 0
