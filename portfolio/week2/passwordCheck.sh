@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash 
 #Getting the password from the user in hidden mode
 read -sp "Enter password :" password
 filename1="secret.txt"
